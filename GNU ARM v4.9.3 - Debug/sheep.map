@@ -1587,37 +1587,37 @@ OUTPUT(sheep.axf elf32-littlearm)
  .comment       0x00000000       0x71 ./CMSIS/EFM32HG/system_efm32hg.o
  .comment       0x00000000       0x71 ./BSP/bsp_stk_leds.o
 
-.debug_info     0x00000000    0x13116
+.debug_info     0x00000000    0x13117
  .debug_info    0x00000000      0xbf4 ./src/displaygraphics.o
- .debug_info    0x00000bf4     0x1d32 ./src/humitemp.o
- .debug_info    0x00002926      0xa6b ./src/lsm_9DS1.o
- .debug_info    0x00003391      0xb14 ./emlib/em_adc.o
- .debug_info    0x00003ea5     0x1a47 ./emlib/em_cmu.o
- .debug_info    0x000058ec      0xb7b ./emlib/em_core.o
- .debug_info    0x00006467      0xb31 ./emlib/em_emu.o
- .debug_info    0x00006f98      0x7a2 ./emlib/em_gpio.o
- .debug_info    0x0000773a      0x9b6 ./emlib/em_i2c.o
- .debug_info    0x000080f0      0x371 ./emlib/em_rtc.o
- .debug_info    0x00008461      0xef6 ./emlib/em_usart.o
- .debug_info    0x00009357      0xc0b ./Graphics/dmd_display.o
- .debug_info    0x00009f62      0xcb3 ./Graphics/glib.o
- .debug_info    0x0000ac15      0x445 ./Graphics/glib_bitmap.o
- .debug_info    0x0000b05a      0x72f ./Graphics/glib_circle.o
- .debug_info    0x0000b789      0x1b3 ./Graphics/glib_font_narrow_6x8.o
- .debug_info    0x0000b93c      0x1b3 ./Graphics/glib_font_normal_8x8.o
- .debug_info    0x0000baef      0x9eb ./Graphics/glib_line.o
- .debug_info    0x0000c4da      0x64e ./Graphics/glib_rectangle.o
- .debug_info    0x0000cb28      0x71c ./Graphics/glib_string.o
- .debug_info    0x0000d244      0x4d9 ./Drivers/display.o
- .debug_info    0x0000d71d      0xaaf ./Drivers/displayls013b7dh03.o
- .debug_info    0x0000e1cc      0xdd1 ./Drivers/displaypalemlib.o
- .debug_info    0x0000ef9d      0x9ae ./Drivers/i2cspm.o
- .debug_info    0x0000f94b     0x126e ./Drivers/rtcdriver.o
- .debug_info    0x00010bb9      0x96f ./Drivers/si7013.o
- .debug_info    0x00011528      0xdc5 ./Drivers/udelay.o
- .debug_info    0x000122ed       0xa9 ./CMSIS/EFM32HG/startup_gcc_efm32hg.o
- .debug_info    0x00012396      0x4a8 ./CMSIS/EFM32HG/system_efm32hg.o
- .debug_info    0x0001283e      0x8d8 ./BSP/bsp_stk_leds.o
+ .debug_info    0x00000bf4     0x1d33 ./src/humitemp.o
+ .debug_info    0x00002927      0xa6b ./src/lsm_9DS1.o
+ .debug_info    0x00003392      0xb14 ./emlib/em_adc.o
+ .debug_info    0x00003ea6     0x1a47 ./emlib/em_cmu.o
+ .debug_info    0x000058ed      0xb7b ./emlib/em_core.o
+ .debug_info    0x00006468      0xb31 ./emlib/em_emu.o
+ .debug_info    0x00006f99      0x7a2 ./emlib/em_gpio.o
+ .debug_info    0x0000773b      0x9b6 ./emlib/em_i2c.o
+ .debug_info    0x000080f1      0x371 ./emlib/em_rtc.o
+ .debug_info    0x00008462      0xef6 ./emlib/em_usart.o
+ .debug_info    0x00009358      0xc0b ./Graphics/dmd_display.o
+ .debug_info    0x00009f63      0xcb3 ./Graphics/glib.o
+ .debug_info    0x0000ac16      0x445 ./Graphics/glib_bitmap.o
+ .debug_info    0x0000b05b      0x72f ./Graphics/glib_circle.o
+ .debug_info    0x0000b78a      0x1b3 ./Graphics/glib_font_narrow_6x8.o
+ .debug_info    0x0000b93d      0x1b3 ./Graphics/glib_font_normal_8x8.o
+ .debug_info    0x0000baf0      0x9eb ./Graphics/glib_line.o
+ .debug_info    0x0000c4db      0x64e ./Graphics/glib_rectangle.o
+ .debug_info    0x0000cb29      0x71c ./Graphics/glib_string.o
+ .debug_info    0x0000d245      0x4d9 ./Drivers/display.o
+ .debug_info    0x0000d71e      0xaaf ./Drivers/displayls013b7dh03.o
+ .debug_info    0x0000e1cd      0xdd1 ./Drivers/displaypalemlib.o
+ .debug_info    0x0000ef9e      0x9ae ./Drivers/i2cspm.o
+ .debug_info    0x0000f94c     0x126e ./Drivers/rtcdriver.o
+ .debug_info    0x00010bba      0x96f ./Drivers/si7013.o
+ .debug_info    0x00011529      0xdc5 ./Drivers/udelay.o
+ .debug_info    0x000122ee       0xa9 ./CMSIS/EFM32HG/startup_gcc_efm32hg.o
+ .debug_info    0x00012397      0x4a8 ./CMSIS/EFM32HG/system_efm32hg.o
+ .debug_info    0x0001283f      0x8d8 ./BSP/bsp_stk_leds.o
 
 .debug_abbrev   0x00000000     0x4602
  .debug_abbrev  0x00000000      0x29e ./src/displaygraphics.o

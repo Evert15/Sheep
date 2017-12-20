@@ -119,7 +119,7 @@ int main(void)
                     2000, periodicUpdateCallback, NULL);
 
   GRAPHICS_Startup();
-  EMU_EnterEM2(true);
+  EMU_EnterEM2(false);
 
   updateDisplay = true;
 
@@ -141,7 +141,7 @@ int main(void)
     			PERIODIC_UPDATE_MS, periodicUpdateCallback, NULL);
 
     }
-    EMU_EnterEM2(true);
+    EMU_EnterEM2(false);
 
   }
 }
